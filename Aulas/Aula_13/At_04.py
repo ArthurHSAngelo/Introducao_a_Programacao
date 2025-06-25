@@ -1,4 +1,3 @@
-import json
 pessoa = {
     "Nome": "Arthur",
     "RG": "MG-15.122.123",

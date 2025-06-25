@@ -8,5 +8,5 @@ for x in pessoa:
     print(pessoa[x])
     
 for x, y in pessoa.items():
-    print(x, y)
+    print(x,': ',y, sep='')
     
